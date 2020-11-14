@@ -1,0 +1,8 @@
+%YAML:1.0
+test_data: 10
+test_bool: 0
+cam_k: !!opencv-matrix
+  rows: 4
+  cols: 4
+  dt:   u
+  data: [0, 125, 280, 125, 280, 0, 275, 0, 0, 125, 280, 125, 280, 0, 275, 0]

@@ -1,0 +1,26 @@
+item {
+  name: "none_of_the_above"
+  label: 0
+  display_name: "background"
+}
+item {
+  name: "triangle"
+  label: 1
+  display_name: "triangle"
+}
+item {
+  name: "car"
+  label: 2
+  display_name: "car"
+}
+item {
+  name: "cones"
+  label: 3
+  display_name: "cones"
+}
+item {
+  name: "person"
+  label: 4
+  display_name: "person"
+}
+
